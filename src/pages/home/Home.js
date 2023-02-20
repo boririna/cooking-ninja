@@ -1,5 +1,8 @@
 import { useFetch } from  '../../hooks/useFetch'
 
+//components
+import RecipeList from '../../components/RecipeList'
+
 //styles
 import './Home.css'
 
