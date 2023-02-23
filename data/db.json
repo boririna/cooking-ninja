@@ -36,6 +36,39 @@
       ],
       "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
       "cookingTime": "35 minutes"
+    },
+    {
+      "title": "Apple pie",
+      "ingredients": [
+        "apples",
+        "dough",
+        "butter"
+      ],
+      "method": "bla bla",
+      "cookingTime": "40minutes",
+      "id": "sXqadX9"
+    },
+    {
+      "title": "Carrot cake",
+      "ingredients": [
+        "Carrot",
+        "flour",
+        "aggs",
+        "sugar"
+      ],
+      "method": "Mix and bake",
+      "cookingTime": "45minutes",
+      "id": "WePjY2M"
+    },
+    {
+      "title": "Chicken soup",
+      "ingredients": [
+        "chicken",
+        "water"
+      ],
+      "method": "Boil",
+      "cookingTime": "30minutes",
+      "id": "K2jaskU"
     }
   ]
 }
