@@ -42,7 +42,7 @@ export default function Create() {
     }
     setTimeout(timeout, 5000)
     
-  }, [data])
+  }, [data, history])
 
   return (
     <div className="create">

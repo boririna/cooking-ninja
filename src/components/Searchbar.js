@@ -5,6 +5,7 @@ import { useHistory } from 'react-router-dom'
 import './Searchbar.css'
 
 export default function Searchbar() {
+    // tracking what the user types in the input field
     const [ term, setTerm] = useState('')
     const history = useHistory()
 
